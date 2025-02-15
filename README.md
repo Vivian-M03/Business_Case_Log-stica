@@ -24,4 +24,4 @@ A área de logística de uma empresa automotiva busca otimizar a **eficiência o
 - **DAX (Data Analysis Expressions)** para cálculos avançados dentro do Power BI.
 
 ## 📌 Relacionamento das Bases
-![Relacionamento das Bases]("Imagens\modelo_relacionamento.png"")
+![Relacionamento das Bases]("Imagens\modelo_relacionamento.png")
